@@ -1,4 +1,4 @@
-# gba-card-matching-game
+# GBA Card Matching Game
 A Pokemon-themed card matching game written for the Game Boy Advance.
 
 The objective of the game, as the name suggests, is to match cards together until there are no unmatched cards left.
